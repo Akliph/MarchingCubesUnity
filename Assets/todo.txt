@@ -1,0 +1,6 @@
+DAMN SON THIS PROJECT WAS STARTED LATE AROUND EARLY AUGUST OF 2020 (Written: FEBRUARY 9th, 2021)
+
+1. Color Dependent on actual value of vert, or difference between neighboring verts
+2. Make different colored materials that you can paint, or place as a block by filling an entire 8 verts
+3. When placing prefabs on the map, raycast down from the instantiation point and fill in the width and height of the object to a certain y value to ensure that the terrain is flat\
+4. When physics objects collide with a chunk, set all contact points to 0 so that a crater with the profile of what hit the ground is made.
